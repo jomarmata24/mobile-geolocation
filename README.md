@@ -1,5 +1,9 @@
 # Projectmata Mobile Geolocation
 
+[![Latest Version](https://img.shields.io/packagist/v/projectmata/mobile-geolocation.svg)](https://packagist.org/packages/projectmata/mobile-geolocation)
+[![Total Downloads](https://img.shields.io/packagist/dt/projectmata/mobile-geolocation.svg)](https://packagist.org/packages/projectmata/mobile-geolocation)
+[![License](https://img.shields.io/packagist/l/projectmata/mobile-geolocation.svg)](https://packagist.org/packages/projectmata/mobile-geolocation)
+
 Geolocation plugin for [NativePHP Mobile](https://nativephp.com). Reads the device's current position on Android and iOS with a single call.
 
 ## Requirements
